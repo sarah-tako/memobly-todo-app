@@ -1,1 +1,1 @@
-# memobly-todo-app
+# memobly-todo-app for git tutorials
